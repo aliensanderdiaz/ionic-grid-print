@@ -1,0 +1,7 @@
+{
+  "name": "GridPrint",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
